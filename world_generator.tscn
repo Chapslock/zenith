@@ -1,6 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://djxxivtdm7fai"]
-
-[ext_resource type="Script" path="res://WorldGenerator.cs" id="1_u78gu"]
-
-[node name="WorldGenerator" type="Node"]
-script = ExtResource("1_u78gu")
